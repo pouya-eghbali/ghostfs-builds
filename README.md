@@ -1,2 +1,2 @@
-# ghostfs-builds
+# GhostFS builds
 GhostFS builds.
